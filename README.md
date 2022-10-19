@@ -87,3 +87,10 @@ Makefile             picow_blink.elf  picow_blink.uf2
 ```
 
 ![pico w blink](./images/pico-w-blink.gif)
+
+# References
+
+- https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html#blink-an-led
+- https://forums.raspberrypi.com/viewtopic.php?t=336836
+- https://www.electromaker.io/blog/article/getting-started-with-the-raspberry-pi-pico-w-cc-sdk
+- https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
