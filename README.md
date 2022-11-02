@@ -94,3 +94,5 @@ Makefile             picow_blink.elf  picow_blink.uf2
 - https://forums.raspberrypi.com/viewtopic.php?t=336836
 - https://www.electromaker.io/blog/article/getting-started-with-the-raspberry-pi-pico-w-cc-sdk
 - https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html
+- https://raspberrypi.github.io/pico-sdk-doxygen/index.html
+- https://developer.arm.com/documentation/dui0662/latest/
